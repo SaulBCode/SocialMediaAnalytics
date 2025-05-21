@@ -1,1 +1,4 @@
 # EDA and statistical analysis for social media interaction data
+This project focuses on analysing a kaggle dataset containing information on user comments about popular brands during various stages of launch of their products. The first part of the project is an exploratory data analysis. Using this I gather descriptive data (such as average sentiment score or impressions) to provide marketing recommendations to stakeholders. These stakeholders include major brands as well as smaller business looking to expland the large social media campaigns. 
+
+The second part of the project uses statistical analysis in R. It relies on the dataset imported from SQL and works to determine whether the initial observations from the EDA are statistically significance. This allows stakeholders to determine whether patterns observed are due to chance or can be attributed to other explanatory variables such as campaign phase or social media platform. 
